@@ -1,3 +1,6 @@
+# View WRITEUP.pdf to view sort statistics
+- All code except .h header files were written by myself
+
 How to run and use sorting.c
 ================================
 
